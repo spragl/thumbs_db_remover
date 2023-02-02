@@ -1,6 +1,4 @@
 # thumbs_db_remover
-Remove those pesky Thumbs.db files
-
 Removes Thumbs.db recursively and then removes itself. Just copy to folder and run.
 
 If you work in a Windows environment Thumbs.db files are likely popping up all over the place, and you play whack-a-mole removing them. With this small script you have a bigger hammer.
